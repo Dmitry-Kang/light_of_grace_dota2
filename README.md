@@ -19,3 +19,5 @@ pyinstaller.exe -F -i ./icon.ico Doka2_enabler.py
 Спрятать консоль:
 pyinstaller.exe -w -F -i ./icon.ico Doka2_deleter.py
 
+- .exe файл будет лежать в папке /dist
+
